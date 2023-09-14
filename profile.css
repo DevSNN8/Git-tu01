@@ -16,28 +16,18 @@
 
 .img {
     height: 250px;
-    background: rebeccapurple;}
-
-
-.img h2 {
-        align-items: center;
-        text-align: center;
+    background: rebeccapurple;
+}
+.img img {
+    width: 100%;
+    overflow: hidden;
 }
 
-
-.img img{
-    width: 550px;
-}
-
-.content{
+.img h2{
     text-align: center;
-    border-bottom: 2px solid #e5e5e5;
-    height: 190px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
 }
+
+
 .content div{
     color: white;
     background: blue;
