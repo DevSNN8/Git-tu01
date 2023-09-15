@@ -30,12 +30,15 @@
 
 .content div{
     color: white;
-    background: blue;
     height: 40px;
-    width: 56px;
     align-items: center;
     text-align: center;
     justify-content: center;
     padding: 2rem;
     border-radius: .5px;
+}
+
+.content .mail{
+    align-items: center;
+    display:flex ;
 }
