@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
             ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 176, 151, 13)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'pornhub'),
+      home: const MyHomePage(title: 'travel'),
     );
   }
 }
