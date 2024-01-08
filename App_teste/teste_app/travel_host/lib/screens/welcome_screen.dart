@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_host/screens/home_page.dart';
+import 'package:travel_host/screens/home_screen.dart';
 
 class Welcomescreen extends StatelessWidget {
   @override
